@@ -9,17 +9,17 @@ Changelog
 =============
 
 v0.1  
--Now an official webservice generator!  
---Generates a single SQL query from a Single table.  
---Using MySQLi for great justice  
---Fully formatted code output.    
+*Now an official webservice generator!  
+  *Generates a single SQL query from a Single table.  
+  *Using MySQLi for great justice  
+  *Fully formatted code output.    
 v0.0  
--No changes  
+*No changes  
 
 Version History
 =============
 
 v0.1  
--Flack Jacket  
+*Flack Jacket  
 v0.0(initial commit)  
--Flack Jacket  
+*Flack Jacket  
